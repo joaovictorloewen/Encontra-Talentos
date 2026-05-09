@@ -559,4 +559,5 @@ Projeto pessoal de portfólio.
 
 ## Autor
 
+João Victor Loewen - desenvolvedor full-stack apaixonado por produto e IA aplicada.
 Lucas Shimazaki Batistti — desenvolvedor full-stack apaixonado por produto e IA aplicada.
